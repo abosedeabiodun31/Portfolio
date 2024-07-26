@@ -1,1 +1,1 @@
-### This contains my Meriskill Internship project
+### This contains my Power BI Internship project
